@@ -1,8 +1,10 @@
 # Tech49 Theme
 ## Dark color theme for [Visual Studio Code](http://code.visualstudio.com/) inspired by Oblivion.
 
+## [GitHub](https://github.com/timdang/tech49_theme)
+
 ## ScreenShot
-![ScreenShot](theme.png)
+![ScreenShot](https://raw.githubusercontent.com/timdang/tech49_theme/master/theme.png)
 
 ### For more information:
 * Based on Oblivion UI from [GMUNK](http://work.gmunk.com/OBLIVION-GFX)
