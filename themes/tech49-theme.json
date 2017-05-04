@@ -8,6 +8,7 @@
 		"editorCursor.foreground": "#a1e4f2",
 		"editorWhitespace.foreground": "#2d3a3c",
 		"statusBar.background": "#3f5459",
+		"statusBar.noFolderBackground": "#ff815c",
 		"sideBar.background": "#1b191b"
 	},
 	"tokenColors": [
