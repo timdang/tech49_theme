@@ -37,7 +37,15 @@
 			"name": "Variable, String Link, Regular Expression",
 			"scope": "variable, support.other.variable, string.other.link, string.regexp, entity.other.attribute-name",
 			"settings": {
+				"fontStyle": "",
 				"foreground": "#fefedb"
+			}
+		},
+		{
+			"name": "this.self",
+			"scope": "variable.language",
+			"settings": {
+				"foreground": "#accecb"
 			}
 		},
 		{
@@ -91,7 +99,7 @@
 			"name": "Storage",
 			"scope": "storage",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "",
 				"foreground": "#d1dbaf"
 			}
 		},
