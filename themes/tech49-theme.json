@@ -80,11 +80,27 @@
 			}
 		},
 		{
-			"name": "Keyword, Storage",
-			"scope": "keyword, storage, storage.type, entity.name.tag.css",
+			"name": "Keyword",
+			"scope": "keyword, entity.name.tag.css",
 			"settings": {
 				"fontStyle": "",
 				"foreground": "#d1dbaf"
+			}
+		},
+		{
+			"name": "Storage",
+			"scope": "storage",
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#d1dbaf"
+			}
+		},
+		{
+			"name": "Storage type",
+			"scope": "storage.type",
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#78cfde"
 			}
 		},
 		{
