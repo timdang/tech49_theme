@@ -3,8 +3,8 @@
 	"colors": {
 		"editor.background": "#000000",
 		"editor.foreground": "#accecb",
-		"editor.selectionBackground": "#3e4e55",
-		"editor.lineHighlightBackground": "#1b191b",
+		"editor.selectionBackground": "#2d3a3c",
+		"editor.lineHighlightBackground": "#2d3a3c",
 		"editorCursor.foreground": "#a1e4f2",
 		"editorWhitespace.foreground": "#2d3a3c",
 		"statusBar.background": "#3f5459",
@@ -22,7 +22,7 @@
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
-				"foreground": "#3f5459"
+				"foreground": "#396269"
 			}
 		},
 		{
@@ -49,11 +49,19 @@
 			}
 		},
 		{
-			"name": "Number, Constant, Function Argument, Tag Attribute, Embedded, Tag Name",
+			"name": "Number, Constant, Function Argument, Embedded, Tag Name",
 			"scope": "constant.numeric, entity.name.tag, meta.tag, declaration.tag, constant.language, support.constant, constant.character, variable.parameter, punctuation.section.embedded, keyword.other.unit",
 			"settings": {
 				"fontStyle": "",
 				"foreground": "#ff815c"
+			}
+		},
+		{
+			"name": "Tag Attribute",
+			"scope": "meta.tag",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#accecb"
 			}
 		},
 		{
