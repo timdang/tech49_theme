@@ -1,15 +1,26 @@
 {
 	"type": "dark",
 	"colors": {
+		"focusBorder": "#ff815c",
+		"input.border": "#3f5459",
+		"list.focusBackground": "#2d3a3c",
+		"list.activeSelectionBackground": "#2d3a3c",
+		"list.highlightForeground": "#ff815c",
 		"editor.background": "#000000",
 		"editor.foreground": "#accecb",
 		"editor.selectionBackground": "#2d3a3c",
+		"editor.findMatchBackground": "#ff815c",
+		"editor.findMatchHighlightBackground": "#2d3a3c",
+		"diffEditor.insertedTextBackground": "#263f45",
+		"diffEditor.removedTextBackground": "#8a291b",
 		"editor.lineHighlightBackground": "#2d3a3c",
 		"editorCursor.foreground": "#a1e4f2",
 		"editorWhitespace.foreground": "#2d3a3c",
 		"statusBar.background": "#3f5459",
 		"statusBar.noFolderBackground": "#ff815c",
-		"sideBar.background": "#1b191b"
+		"sideBar.background": "#1b191b",
+		"titleBar.activeForeground": "#ffffff",
+		"titleBar.activeBackground": "#2d3a3c"
 	},
 	"tokenColors": [
 		{

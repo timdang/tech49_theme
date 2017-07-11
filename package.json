@@ -2,7 +2,7 @@
     "name": "theme-tech49",
     "displayName": "Tech49 Theme",
     "description": "Dark color theme for Visual Studio Code inspired by the movie Oblivion.",
-    "version": "1.3.0",
+    "version": "1.4.0",
     "publisher": "timdang",
     "engines": {
         "vscode": "^1.8.0"
@@ -28,7 +28,7 @@
     },
     "icon": "icon.png",
     "galleryBanner": {
-        "color": "#9EA485",
+        "color": "#2d3a3c",
         "theme": "dark"
     }
 }

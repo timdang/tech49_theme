@@ -14,3 +14,6 @@ All notable changes to the "theme-tech49" extension may be documented in this fi
 - Updated ligibilities of commented text.
 - Very minor tweak to HTML formatting.
 - Updated screenshot.
+
+## 1.4
+- Added some more theme-specific editor colors.
