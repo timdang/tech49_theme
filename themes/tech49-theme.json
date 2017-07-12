@@ -11,7 +11,7 @@
 		"editor.selectionBackground": "#2d3a3c",
 		"editor.findMatchBackground": "#ff815c",
 		"editor.findMatchHighlightBackground": "#2d3a3c",
-		"diffEditor.insertedTextBackground": "#76cddc40",
+		"diffEditor.insertedTextBackground": "#76cddc23",
 		"diffEditor.removedTextBackground": "#ff3a2840",
 		"editor.lineHighlightBackground": "#2d3a3c",
 		"editorCursor.foreground": "#a1e4f2",
