@@ -16,11 +16,14 @@
 		"editor.lineHighlightBackground": "#2d3a3c",
 		"editorCursor.foreground": "#a1e4f2",
 		"editorWhitespace.foreground": "#2d3a3c",
+		"editorWarning.foreground": "#ff815c",
 		"statusBar.background": "#3f5459",
 		"statusBar.noFolderBackground": "#ff815c",
 		"sideBar.background": "#1b191b",
 		"titleBar.activeForeground": "#ffffff",
-		"titleBar.activeBackground": "#2d3a3c"
+		"titleBar.activeBackground": "#2d3a3c",
+		"editorGutter.modifiedBackground": "#fefedb",
+		"editorGutter.addedBackground": "#a1e4f2"
 	},
 	"tokenColors": [
 		{
