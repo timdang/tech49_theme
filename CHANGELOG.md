@@ -20,3 +20,6 @@ All notable changes to the "theme-tech49" extension may be documented in this fi
 
 ## 1.5
 - Added some theme-specific VCS colors.
+
+## 1.6
+- Added some VCS colors to the Overview ruler.

@@ -23,7 +23,10 @@
 		"titleBar.activeForeground": "#ffffff",
 		"titleBar.activeBackground": "#2d3a3c",
 		"editorGutter.modifiedBackground": "#fefedb",
-		"editorGutter.addedBackground": "#a1e4f2"
+		"editorGutter.addedBackground": "#a1e4f2",
+		"editorOverviewRuler.modifiedForeground": "#fefedb",
+		"editorOverviewRuler.addedForeground": "#a1e4f2",
+		"editorOverviewRuler.deletedForeground": "#ff815c"
 	},
 	"tokenColors": [
 		{
