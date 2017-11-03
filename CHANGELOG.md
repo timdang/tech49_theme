@@ -11,7 +11,7 @@ All notable changes to the "theme-tech49" extension may be documented in this fi
 - Removed bold text.
 
 ## 1.3
-- Updated ligibilities of commented text.
+- Updated legibility of commented text.
 - Very minor tweak to HTML formatting.
 - Updated screenshot.
 
@@ -23,3 +23,6 @@ All notable changes to the "theme-tech49" extension may be documented in this fi
 
 ## 1.6
 - Added some VCS colors to the Overview ruler.
+
+## 1.7
+- Added high contrast comments theme variant.
