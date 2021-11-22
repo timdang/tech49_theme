@@ -1,5 +1,6 @@
 {
   "type": "dark",
+  "semanticHighlighting": true,
   "colors": {
     "focusBorder": "#ff815c",
     "input.border": "#3f5459",
