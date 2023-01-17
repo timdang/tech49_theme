@@ -35,5 +35,8 @@
     "galleryBanner": {
         "color": "#2d3a3c",
         "theme": "dark"
+    },
+    "scripts": {
+        "format": "npx prettier themes"
     }
 }
