@@ -45,3 +45,7 @@ All notable changes to the "theme-tech49" extension may be documented in this fi
 - Added a proper `semanticTokenColors` map so semantic highlighting actually
   works, using the same palette as the TextMate token colors.
 - Brought the "Vivid Comments" high-contrast variant up to the same coverage.
+
+## 1.9.1
+
+- Added an MIT license.
