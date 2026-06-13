@@ -1,8 +1,12 @@
 ## Dark color theme for [Visual Studio Code](http://code.visualstudio.com/) inspired by the movie Oblivion.
 
+A flat-black theme with a cyan / coral / olive palette, fully themed across the
+editor, activity bar, sidebar, tabs, terminal, status bar, and more — with
+semantic highlighting support.
+
 ## [GitHub](https://github.com/timdang/tech49_theme)
 
-![ScreenShot](https://raw.githubusercontent.com/timdang/tech49_theme/master/theme.png)
+![Tech49 theme screenshot](https://raw.githubusercontent.com/timdang/tech49_theme/master/theme.png)
 
 ### For more information:
 * Based on Oblivion UI from [GMUNK](http://work.gmunk.com/OBLIVION-GFX)
