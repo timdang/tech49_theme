@@ -49,3 +49,8 @@ All notable changes to the "theme-tech49" extension may be documented in this fi
 ## 1.9.1
 
 - Added an MIT license.
+
+## 1.9.2
+
+- Refreshed the Marketplace screenshot with a full-window shot of the expanded
+  theming, and updated the README/attributions.
