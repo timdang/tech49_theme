@@ -35,3 +35,13 @@ All notable changes to the "theme-tech49" extension may be documented in this fi
 ## 1.8
 
 - Enabled sematic highlighting. Not sure if it works, honestly.
+
+## 1.9
+
+- Major workbench coverage update: applied the existing palette to many more UI
+  elements (tabs, breadcrumbs, terminal ANSI colors, menus, notifications,
+  peek/hover/suggest widgets, git decorations, minimap, scrollbars, inputs,
+  buttons, status bar items, bracket-pair colorization, and more).
+- Added a proper `semanticTokenColors` map so semantic highlighting actually
+  works, using the same palette as the TextMate token colors.
+- Brought the "Vivid Comments" high-contrast variant up to the same coverage.
