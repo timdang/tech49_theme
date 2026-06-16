@@ -69,3 +69,7 @@ All notable changes to the "theme-tech49" extension may be documented in this fi
     activity bar) from `#396269` to `#5d8a92` for readability.
   - Leaned the holographic cyan into focus states (`focusBorder`,
     `sash.hoverBorder`), reserving the drone-eye orange for action accents.
+
+## 1.10.1
+
+- Refreshed the Marketplace screenshot to show the new default Tower theme.
