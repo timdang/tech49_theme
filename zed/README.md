@@ -3,7 +3,8 @@
 Dark color theme inspired by the movie *Oblivion* — the Zed port of the
 [Tech49 VS Code theme](https://github.com/timdang/tech49_theme).
 
-Ships the **Tech49 (Tower)** variant.
+Ships three variants: **Tech49 (Tower)** (default), **Tech49 (Classic)** (pure-black
+backgrounds), and **Tech49 (Vivid Comments)** (brighter comment color).
 
 ## Install
 
