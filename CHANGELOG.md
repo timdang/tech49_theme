@@ -54,3 +54,18 @@ All notable changes to the "theme-tech49" extension may be documented in this fi
 
 - Refreshed the Marketplace screenshot with a full-window shot of the expanded
   theming, and updated the README/attributions.
+
+## 1.10.0
+
+- Refreshed the default "Tech49" theme with a modernized take inspired by the Sky
+  Tower / Tech 49 station rather than the night-drone mood. The previous default is
+  still available as "Tech49 (Classic)". The refresh keeps the existing syntax
+  palette but modernizes the workbench chrome:
+  - Replaced the flat pure-black surfaces with a deep cool-teal near-black and a
+    proper elevation ladder (editor `#03070a`, chrome `#060d10`, raised
+    surfaces `#0c1518`, popups/widgets `#0a1316`) so panels and popups read as
+    distinct glass layers.
+  - Lifted the dim chrome text (status bar, inactive tabs, breadcrumbs,
+    activity bar) from `#396269` to `#5d8a92` for readability.
+  - Leaned the holographic cyan into focus states (`focusBorder`,
+    `sash.hoverBorder`), reserving the drone-eye orange for action accents.
