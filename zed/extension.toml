@@ -1,0 +1,7 @@
+id = "tech49"
+name = "Tech49"
+version = "0.2.1"
+schema_version = 1
+authors = ["Tim Dang"]
+description = "Dark color theme inspired by the movie Oblivion."
+repository = "https://github.com/timdang/tech49_theme"
