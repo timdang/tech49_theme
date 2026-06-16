@@ -1,6 +1,6 @@
-id = "tech49"
-name = "Tech49"
-version = "0.2.1"
+id = "tech49-theme"
+name = "Tech49 Theme"
+version = "0.2.3"
 schema_version = 1
 authors = ["Tim Dang"]
 description = "Dark color theme inspired by the movie Oblivion."
