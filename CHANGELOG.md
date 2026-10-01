@@ -73,3 +73,22 @@ All notable changes to the "theme-tech49" extension may be documented in this fi
 ## 1.10.1
 
 - Refreshed the Marketplace screenshot to show the new default Tower theme.
+
+## 1.11.0
+
+- Tuned all three variants (and the Zed port, now 0.3.0) for agentic coding,
+  where most of the work is reviewing generated code:
+  - AI ghost text / edit predictions now use a dedicated muted lavender
+    (`#8f7aa8`, 5.3:1) instead of the comment color, so suggestions can no
+    longer be mistaken for real comments.
+  - Added lines in diffs, gutters, and Zed's version-control colors are now
+    olive (`#9ea485`) instead of cyan, so "added" no longer reads as
+    "selected". Zed's "modified" now matches VS Code's cream `#fefedb`.
+  - Themed the VS Code chat / agent panel (`chat.*`), inline chat
+    (`inlineChat*`), next-edit suggestions (`inlineEdit.*`), the multi-file
+    diff view, merge conflicts (`merge.*`), and terminal command decorations.
+  - Filled out `diffEditor.*` (borders, gutter, overview ruler, collapsed
+    unchanged regions) and Zed's `version_control.*`, word-level diff,
+    active search match, and bracket highlight colors.
+  - Raised terminal bright-black from 3.0:1 to 5.3:1 (`#5d8a92`) and lifted
+    Zed's dim ANSI colors so the gray/dim output CLI agents print is readable.
